@@ -1,4 +1,4 @@
-# Todo App 📝
+# Todo App 
 
 PHP AND SQLITE
 This project allows users to register, login, create projects, and manage tasks within those projects.
@@ -45,5 +45,3 @@ This project allows users to register, login, create projects, and manage tasks 
 4.  **Use the App:**
     Go to `http://localhost:8000/register.php` to create your first account.
 
----
-*Created for a university assignment.*
