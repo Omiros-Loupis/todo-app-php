@@ -27,8 +27,9 @@ This project allows users to register, login, create projects, and manage tasks 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/todo-app.git](https://github.com/YOUR_USERNAME/todo-app.git)
-    cd todo-app
+    git clone https://github.com/Omiros-Loupis/todo-app-php.git
+    cd todo-app-php
+
     ```
 
 2.  **Start the local PHP server:**
